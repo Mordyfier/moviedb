@@ -1,5 +1,5 @@
 # moviedb
-## A simple webapp that turns a MovieLens dataset into a movie catalogue.
+## A simple webapp that turns the MovieLens small dataset into a movie catalog.
 
 ### This web app is an extension of my Summer 2021 CISC. 3140 full-stack web application project which can be found [here](https://github.com/Mordyfier/CISC3140/tree/master/Lab%204.3).
 
